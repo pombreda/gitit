@@ -1,0 +1,3 @@
+Gitit is a wiki program written in Haskell. It uses [git](http://git.or.cz) or [darcs](http://darcs.net) for storage, history, search, diffs, and merging, and [pandoc](http://johnmacfarlane.net/pandoc/) for markup processing. Pages and uploaded files are stored in a git repository and may be modified either by using the VCS’s command-line tools or through the wiki’s web interface. Pandoc’s extended version of markdown is used as a markup language. Pages can be exported in a number of different formats, including LaTeX, RTF, OpenOffice ODT, and MediaWiki markup. Gitit can be configured to display TeX math and highlighted source code.
+
+This google code site is no longer used. Please see the [github site](http://github.com/jgm/gitit) for the source code and issue tracker.
